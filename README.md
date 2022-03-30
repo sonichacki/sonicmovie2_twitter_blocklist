@@ -4,7 +4,7 @@ Hello dear blue blur fans, this is a shared block list to prevent spoilers of so
 the list includes known accounts that are known to post spoilers of the movie content (especially screenshots and post-end credits) 
 
 # Philosophy 
-the only motivation with the list is to prevent users from being spoiled by these users. 
+the only motivation with the list is to prevent users from being spoiled about sonic movie 2 by these accounts. 
 <b><i>no personal harassment or threats towards the listed accounts is intended with this use of list.</b></i>
 
 # How to use
