@@ -1,4 +1,4 @@
-# sonicmovie2_twitter_blocklist
+# sonicmovie2_twitter_spoileraccounts
 Hello dear blue blur fans, this is a shared block list to prevent spoilers of sonic movie 2 as much as possible
 
 the list includes known accounts that are known to post spoilers of the movie content (especially screenshots and post-end credits) 
